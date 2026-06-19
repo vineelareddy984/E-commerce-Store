@@ -1,6 +1,6 @@
 {
-  "name": "Minimalist E-Commerce Store",
-  "description": "A premium, elegant e-commerce experience for high-end designer furniture, cashmere apparel, and home-ritual objects.",
+  "name": "Swara Heritage",
+  "description": "An exquisite Indian luxury curated store for heirloom furniture, handlooms, and ritual accents.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
